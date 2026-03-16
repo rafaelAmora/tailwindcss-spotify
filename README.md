@@ -16,7 +16,7 @@ Recriação da interface do Spotify desenvolvida com Next.js e Tailwind CSS. O p
 ## Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/spotify-clone.git
+git clone https://github.com/rafaelAmora/spotify-clone.git
 cd spotify-clone
 npm install
 npm run dev
